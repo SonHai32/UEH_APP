@@ -4,6 +4,7 @@ export const score_card = require('../assets/icons/icons8-scorecard.png');
 export const user = require('../assets/icons/icons8-user.png');
 export const lock = require('../assets/icons/icons8-lock.png');
 export const key = require('../assets/icons/icons8-key.png');
+export const eye = require('../assets/icons/icons8-eyes.png');
 
 
 export default {
@@ -13,5 +14,6 @@ export default {
     user,
     lock,
     key,
-
+    eye,
 }
+

@@ -51,3 +51,5 @@ export const SIZES = {
 }
 
 const appTheme = {COLORS, SIZES}
+
+export default appTheme
